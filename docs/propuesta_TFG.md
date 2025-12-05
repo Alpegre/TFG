@@ -250,9 +250,9 @@ Mes 6    |███████████████████████�
 
 | Recurso | URL | Descripción |
 |---------|-----|-------------|
-| Google QuickDraw | [quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/data) | Dataset de dibujos rápidos |
-| IAM Handwriting DB | [fki.tic.heia-fr.ch](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) | Escritura manuscrita |
-| EMNIST | [nist.gov/itl/products-and-services/emnist-dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset) | Caracteres manuscritos |
+| Google QuickDraw | [github.com/googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) | Dataset de dibujos rápidos |
+| IAM Handwriting DB | [fki.tic.heia-fr.ch/databases/iam-handwriting-database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) | Escritura manuscrita |
+| EMNIST | [www.nist.gov/itl/products-and-services/emnist-dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset) | Caracteres manuscritos |
 | Sketch-RNN | [github.com/magenta/magenta](https://github.com/magenta/magenta/tree/main/magenta/models/sketch_rnn) | Modelo de referencia de Google |
 
 ### 7.6 Bibliografía Provisional
@@ -267,7 +267,7 @@ Mes 6    |███████████████████████�
 
 5. Chollet, F. (2021). *Deep Learning with Python*, 2nd Ed. Manning.
 
-6. Cycling '74. (2023). *Max 8 Documentation*. [docs.cycling74.com](https://docs.cycling74.com/)
+6. Cycling '74. (2023). *Max 8 Documentation*. [https://docs.cycling74.com](https://docs.cycling74.com/)
 
 7. Wright, M. (2005). *Open Sound Control: an enabling technology for musical networking*. Organised Sound.
 
